@@ -1,0 +1,14 @@
+# Каталоги и файлы вне проекта
+.Trash/
+Library/
+Desktop/
+Documents/
+Downloads/
+Music/
+Pictures/
+Public/
+PycharmProjects/
+SoapUI-Tutorials/
+Virtual Machines.localized/
+
+
